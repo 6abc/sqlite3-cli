@@ -1,5 +1,5 @@
-#Welcome to Python SQLite-CLI Please create .sql script first
+# Welcome to Python SQLite-CLI Please create .sql script first
 
-sh'''
+```sh
 python Script_Db.py
-'''
+```

@@ -1,0 +1,3 @@
+BEGIN;
+ALTER TABLE table ADD COLUMN new_column;
+COMMIT;

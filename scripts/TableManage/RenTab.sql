@@ -1,0 +1,3 @@
+BEGIN;
+ALTER TABLE old_table RENAME TO new_table;
+COMMIT;
